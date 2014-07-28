@@ -1,0 +1,50 @@
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+
+body{
+  background-color: yellow;
+  margin: 0px;
+}
+
+nav {
+  margin-top:25px;
+}
+
+h1{
+  border: 3px solid blue;
+  font-family: 'Shadows Into Light', cursive;
+  color: blue;
+  background-color: rgb(30, 160, 172);
+  font-size: 50px;
+  letter-spacing: 10px;
+  padding: 20px;
+  margin:0px;
+}
+
+a {
+  font-family: monospace;
+  text-decoration: none;
+  background-color: rgb(30, 160, 172);
+  color: yellow;
+  border:1px solid blue;
+  padding: 5px;
+  margin: 5px;
+}
+
+a:hover {
+  text-decoration: none;
+  color: blue;
+  background-color: yellow;
+}
+
+.super {
+  margin-top: 25px;
+  color: yellow;
+  background-color: rgb(30, 160, 172);
+}
+
+#awesome {
+  color: blue;
+  background-color: orange;
+  margin-top: 25px;
+}
+
